@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31112.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Npoints", "Npoints\Npoints.vcxproj", "{B164F86C-DDB8-457A-803C-6F4ACAB2D69E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B164F86C-DDB8-457A-803C-6F4ACAB2D69E}.Debug|x64.ActiveCfg = Debug|x64
+		{B164F86C-DDB8-457A-803C-6F4ACAB2D69E}.Debug|x64.Build.0 = Debug|x64
+		{B164F86C-DDB8-457A-803C-6F4ACAB2D69E}.Release|x64.ActiveCfg = Release|x64
+		{B164F86C-DDB8-457A-803C-6F4ACAB2D69E}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7412ECA7-697A-489A-8354-0F273F9FFCBE}
+	EndGlobalSection
+EndGlobal
